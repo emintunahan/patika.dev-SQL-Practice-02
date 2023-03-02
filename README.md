@@ -27,3 +27,4 @@ WHERE RENTAL_RATE IN (0.99,2.99,4.99)
 AND REPLACEMENT_COST IN (12.99,15.99,28.99);
 
 ```
+https://www.patika.dev
